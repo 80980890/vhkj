@@ -8,4 +8,4 @@
 
 echo '123';
 
-echo 'fuck';
+echo 'fuck123';
